@@ -9,7 +9,7 @@ Python command line program to create an nth degree polynomial, evaluate the pol
 
 ## Example output of an LRAM on a 3rd degree polynomial.
 
-=> python main.py
+`=> python main.py
 This program calculates values, derivatives, exact definite
 integrals, and definite integral approximations for polynomials
 of a degree and coefficients determined by the user.
@@ -47,4 +47,4 @@ Would you like to see the coordinates? y for yes and anything else for no: y
 
 Would you like a LRAM, RRAM, or TRAM approximation? Enter the type of ram: LRAM
 
-The approximate integral for this LRAM over 5 steps on the interval from  2.0  to  2.75  on the polynomial  {0: 5.5, 1: 4.0, 2: -1.0, 3: 2.0}  is  33.3196875
+The approximate integral for this LRAM over 5 steps on the interval from  2.0  to  2.75  on the polynomial  {0: 5.5, 1: 4.0, 2: -1.0, 3: 2.0}  is  33.3196875`
