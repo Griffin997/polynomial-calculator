@@ -157,18 +157,18 @@ def chooseRAMtype():
 
 # ==============================================
 # --- Main ---
-print "This program calculates values, derivatives, exact definite \
-integrals, and definite integral approximations for polynomials \
-of a degree and coefficients determined by the user."
+print "This program calculates values, derivatives, exact definite"
+print "integrals, and definite integral approximations for polynomials"
+print "of a degree and coefficients determined by the user."
 print ""
 while True:
     getInput()
     poly = createPoly(MonomialArray)
 
     print ""
-    print "Your polynomial is associated with the given dictionary. Each \
-key of the dictionary is the degree of the monomial \
-and the value is the coefficient of the associated degree."
+    print "Your polynomial is associated with the given dictionary. Each"
+    print "key of the dictionary is the degree of the monomial"
+    print "and the value is the coefficient of the associated degree."
     print poly
 
     while True:
